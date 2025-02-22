@@ -1,12 +1,3 @@
-## Hi there 👋
+## Build Dragon, Collect Bounties 🔥
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Dragon is a community-built product from inception. It is divided into separate data-modules that each visualize any kind of deception or power concentration in a token project. The first four modules produce analyses on bundles, snipes, clusters, and basic security. Soon there will be many more modules that analyze other holder and deception metrics, crowd-sourced by the builders who can think of them.
