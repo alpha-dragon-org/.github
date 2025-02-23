@@ -1,6 +1,6 @@
 ## Build Dragon, Collect Bounties 🔥
 
-Dragon is a community-built product from inception. It is divided into separate data-modules that each visualize any kind of deception or power concentration in a token project. The first four modules produce analyses on bundles, snipes, clusters, and basic security. Soon there will be many more modules that analyze other holder and deception metrics, crowd-sourced by the builders who can think of them.
+Dragon will be community-built from inception. The goal is to make token holder data more transparent through compelling visualizations. The initial release has been divided into four data-modules, each focused on a specific deception or power concentration in a token: bundles, snipes, clusters, and basics. Soon there will be many modules analyzing other token holder metrics, crowd-sourced by the builders who can think of them.
 
 
 [Telegram](https://t.me/+OU0SLVfcpEZhZWQx) | 
