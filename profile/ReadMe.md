@@ -1,6 +1,6 @@
 ## Build Dragon, Collect Bounties 🔥
 
-Dragon will be community-built from inception. The goal is to make token holder data more transparent through compelling visualizations. The initial release has been divided into four data-modules, each focused on a specific deception or power concentration in a token: bundles, snipes, clusters, and basics. Soon there will be more modules analyzing other holder metrics, crowd-sourced by the builders who can think of them.
+Dragon will be community-built from inception. The goal is to make token holder data more transparent through compelling visualizations. The initial release has been divided into four data-modules, each focused on a specific deception or power concentration in a token: bundles, snipes, clusters, and basics. Soon there will be more modules that analyze other holder metrics, crowd-sourced by the builders who can think of them.
 
 
 [Telegram](https://t.me/+OU0SLVfcpEZhZWQx) | 
