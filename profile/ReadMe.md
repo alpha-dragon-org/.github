@@ -2,7 +2,9 @@
 
 Dragon will be a community build project from inception. The goal is to make token holder data more transparent through compelling visualizations. The initial release has been divided into four data-modules, each focused on a specific deception or power concentration in a token: bundles, snipes, clusters, and basics. Soon there will be more modules that analyze other metrics, developed by the builders who can think of them.
 
-[Linktr.ee](https://linktr.ee/alphadragon) | 
+<img width="637" alt="Screen Shot 2025-02-25 at 1 18 55 AM" src="https://github.com/user-attachments/assets/7c335e44-4385-4c2a-b5f0-a6ee80486167" />
+
+[Linktr.ee](https://linktr.ee/alphadragon) |
 [Telegram](https://t.me/+OU0SLVfcpEZhZWQx) | 
 [Vision](https://dragon-12.gitbook.io/alpha-dragon) | 
 [Website](https://alpha-dragon.ai/index.html) | 
