@@ -4,10 +4,12 @@ Dragon is a community build project from inception. The idea is to make data abo
 
 ![Screenshot 2025-03-06 at 4 45 30 PM](https://github.com/user-attachments/assets/6292af01-436b-4d15-b3ca-f7918c4a07a9)
 
+### Join the [Discussion](https://github.com/orgs/alpha-dragon-org/discussions).
+
 ---
 
 [Linktr.ee](https://linktr.ee/alphadragon) |
 [Telegram](https://t.me/+OU0SLVfcpEZhZWQx) | 
 [Vision](https://dragon-12.gitbook.io/alpha-dragon) | 
 [Website](https://alpha-dragon.ai/index.html) | 
-[Roadmap](https://docs.google.com/presentation/d/e/2PACX-1vRWKTS6OiL_j0Xb707QJcrb18XhJQn8zdX7LgQIGvrWEaSPtL0cQAOz6_yt87lN3ZUMyIAFINNTh-LL/pub?start=true&loop=true&delayms=10000) 
+[Roadmap](https://docs.google.com/presentation/d/e/2PACX-1vRWKTS6OiL_j0Xb707QJcrb18XhJQn8zdX7LgQIGvrWEaSPtL0cQAOz6_yt87lN3ZUMyIAFINNTh-LL/pub?start=true&loop=true&delayms=10000)
