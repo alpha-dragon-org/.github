@@ -4,6 +4,8 @@ Dragon is a community build project from inception. The idea is to make data abo
 
 ![Untitled design (1)](https://github.com/user-attachments/assets/bf64c6f7-0c1d-4a08-b2aa-708889dc3a0b)
 
+---
+
 [Linktr.ee](https://linktr.ee/alphadragon) |
 [Telegram](https://t.me/+OU0SLVfcpEZhZWQx) | 
 [Vision](https://dragon-12.gitbook.io/alpha-dragon) | 
