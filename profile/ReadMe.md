@@ -2,7 +2,7 @@
 
 Dragon is a community build project from inception. The idea is to make data about a token's holders more transparent and compelling with visualizations. The initial release has been divided into four data-modules, each focused on a specific deception or concentration of power in a token: bundles, snipes, clusters, and basics. Soon there will be more modules that analyze more metrics, developed by builders who can think of them.
 
-![Untitled design (1)](https://github.com/user-attachments/assets/bf64c6f7-0c1d-4a08-b2aa-708889dc3a0b)
+![Screenshot 2025-03-06 at 4 45 30 PM](https://github.com/user-attachments/assets/6292af01-436b-4d15-b3ca-f7918c4a07a9)
 
 ---
 
