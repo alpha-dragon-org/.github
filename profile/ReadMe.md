@@ -1,6 +1,6 @@
 ## Build Dragon, Collect Bounties 🔥
 
-Dragon is a community build project from inception. The idea is to make the data about a token's holders more transparent and compelling.   
+Dragon is a community build project from inception. The idea is to make the distribution of a token's holders more transparent and compelling through visual data.   
 
 The initial release has been divided into four data-modules, each focused on a specific deception or concentration of power in a token: **bundles, snipes, clusters, and security basics**. Soon there will be modules that analyze more metrics, developed by our team of builders who can think of them.   
 
