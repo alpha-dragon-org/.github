@@ -4,7 +4,7 @@ Dragon is a community build project from inception. The idea is to make the dist
 
 The initial release has been divided into four data-modules, each focused on a specific deception or concentration of power in a token: **bundles, snipes, clusters, and security basics**. Soon there will be modules that analyze more metrics, developed by our team of builders who can think of them.   
 
-Please consider joining the team by contributing to one of the current bounties, pinned below.
+Please consider joining the team by contributing to one of the current bounties, coming soon.
 
 ![Screenshot 2025-03-06 at 4 45 30 PM](https://github.com/user-attachments/assets/6292af01-436b-4d15-b3ca-f7918c4a07a9)
 
