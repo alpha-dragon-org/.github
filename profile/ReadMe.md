@@ -2,9 +2,9 @@
 
 Dragon is open sourced at release. The goal is to develop all potential analyses on a token that traders will find useful in the trenches.   
 
-The release has been divided into four modules that are specifically focused on the MEV activity and holder distributions of a token. These analyses are on **Bundles, Snipers, Clusters, and Fundamental Security**. Future modules will analyze other types of MEV, different holder distributions, or explore token data not yet categorized.
+The release has been divided into modules that are specifically focused on the MEV activity and holder distributions of a token. These analyses are **Bundles, Snipers, Clusters, and Fundamental Security**. Future modules will analyze other types of MEV, different holder distributions, and explore token data we haven't thought about yet.
 
-Please consider joining the project by contributing to one of the bounties below. Community proposals for future modules and categories coming soon.
+Please consider joining the project by contributing to one of its bounties below. Community proposals for future modules and categories are coming soon.
 
 ![Screenshot 2025-04-23 at 2 24 34 PM](https://github.com/user-attachments/assets/964752fe-c22d-4d18-aa41-b837014b3314)
 
