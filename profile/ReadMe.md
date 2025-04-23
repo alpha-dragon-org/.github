@@ -1,6 +1,6 @@
 ## Build Dragon, Collect Bounties 🔥
 
-Dragon is open sourced at release. The goal is to develop all potential analyses on a token that traders will find useful in the trenches.   
+Dragon is open sourced browser extension for trading crypto. The goal is to develop all potential analyses on a token that traders will find useful in the trenches.   
 
 The release has been divided into modules that are specifically focused on the MEV activity and holder distributions of a token. These analyses are **Bundles, Snipers, Clusters, and Fundamental Security**. Future modules will analyze other types of MEV, different holder distributions, and explore token data we haven't thought about yet.
 
