@@ -12,8 +12,7 @@ Please consider joining the project by contributing to one of its bounties below
 
 ---
 
-[Linktr.ee](https://linktr.ee/alphadragon) |
+[Linktree](https://linktr.ee/alphadragon) |
 [Telegram](https://t.me/+OU0SLVfcpEZhZWQx) | 
-[Vision](https://dragon-12.gitbook.io/alpha-dragon) | 
 [Website](https://alpha-dragon.ai/index.html) | 
-[Roadmap](https://docs.google.com/presentation/d/e/2PACX-1vRWKTS6OiL_j0Xb707QJcrb18XhJQn8zdX7LgQIGvrWEaSPtL0cQAOz6_yt87lN3ZUMyIAFINNTh-LL/pub?start=true&loop=true&delayms=10000)
+[Vision](https://dragon-12.gitbook.io/alpha-dragon)
