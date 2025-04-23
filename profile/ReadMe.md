@@ -6,7 +6,8 @@ The release has been divided into four modules that are specifically focused on 
 
 Please consider joining the project by contributing to one of the bounties below. Community proposals for future modules and categories coming soon.
 
-![Screenshot 2025-03-06 at 4 45 30 PM](https://github.com/user-attachments/assets/6292af01-436b-4d15-b3ca-f7918c4a07a9)
+![Screenshot 2025-04-23 at 2 24 34 PM](https://github.com/user-attachments/assets/964752fe-c22d-4d18-aa41-b837014b3314)
+
 
 ### Please also consider joining our [Discussion!](https://github.com/orgs/alpha-dragon-org/discussions).
 
