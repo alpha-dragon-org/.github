@@ -9,7 +9,7 @@ Please consider joining the project by contributing to one of the bounties below
 ![Screenshot 2025-04-23 at 2 24 34 PM](https://github.com/user-attachments/assets/964752fe-c22d-4d18-aa41-b837014b3314)
 
 
-### Please also consider joining our [Discussion!](https://github.com/orgs/alpha-dragon-org/discussions).
+### Please also consider joining our [Discussion!](https://github.com/orgs/alpha-dragon-org/discussions)
 
 ---
 
