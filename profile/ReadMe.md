@@ -13,7 +13,13 @@ Please consider joining the project by contributing to one of the bounties below
 
 ---
 
-[Linktree](https://linktr.ee/alphadragon) |
+
+[Read the project overview](https://alpha-dragon.ai/alphadragon.pdf) |
+[Download the prototype](https://chromewebstore.google.com/detail/dragon/ncbgllgbplhnbekllhogabdefjidbkoe) |
+
+[Website](https://alpha-dragon.ai) |
 [Telegram](https://t.me/+OU0SLVfcpEZhZWQx) | 
-[Website](https://alpha-dragon.ai/index.html) | 
-[Vision](https://dragon-12.gitbook.io/alpha-dragon)
+[Mail](mailto:baddragonmygoodness@gmail.com) | 
+[X](https://x.com/AlphaDragonAI) | 
+
+
