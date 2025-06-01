@@ -1,4 +1,4 @@
-## Build Dragon, Collect Bounties 🔥
+## Build Dragon, Collect Bounties
 
 Dragon is an open sourced browser extension for trading crypto. The goal is to develop all potential analyses on a token that traders will find useful in the trenches.   
 
