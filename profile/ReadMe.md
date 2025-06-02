@@ -1,4 +1,4 @@
-## Build Dragon, Collect Bounties, Gain Influence in the Project
+## Build Modules, Earn Bounties, Develop Ownership
 
 Dragon is an open-sourced project for discovering alpha as defined by composable and specific token data. Token analyses are packaged as community-developed **data modules** that can be incorporated into any user's browser extension to be used as a DYOR companion during trading. Please read about the project in its entirety [here](https://alpha-dragon.ai/alphadragon.pdf).
 
