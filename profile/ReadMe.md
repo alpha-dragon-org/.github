@@ -1,6 +1,6 @@
 ## Build Modules, Earn Bounties, Develop Ownership
 
-Dragon is an open-sourced project for discovering alpha as defined by composable and specific token data. Token analyses are packaged as community-developed **data modules** that can be incorporated into any user's browser extension to be used as a DYOR companion during trading. Please read about the project in its entirety [here](https://alpha-dragon.ai/alphadragon.pdf).
+Dragon's vision is for everyday traders to discover alpha as composable data sourced by open intelligence. Token analyses are packaged as community-developed **data modules** that can be incorporated into any user's browser extension to be used as a DYOR companion during trading. Please read about the project in its entirety [here](https://alpha-dragon.ai/alphadragon.pdf).
 
 The initial release is divided into four prototype modules that analyze aspects of the MEV activity and holder distributions of a token. These modules are **Bundles, Snipers, Clusters, and Fundamental Security**. Future modules can analyze other types of MEV, other aspects of a holder distribution, or explore any other token data that a developer can imagine, sourcing intelligence from on- or off-chain.
 
