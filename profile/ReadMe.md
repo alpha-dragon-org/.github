@@ -4,7 +4,7 @@ Dragon's vision is for everyday traders to discover alpha as composable data sou
 
 The initial release is divided into four prototype modules that analyze aspects of the MEV activity and holder distributions of a token. These modules are **Bundles, Snipers, Clusters, and Fundamental Security**. Future modules can analyze other types of MEV, other aspects of a holder distribution, or explore any other token data that a developer can imagine, sourcing intelligence from on- or off-chain.
 
-Please consider contributing to the project by building one of the four bounties pinned below. We are taking new module proposals via the Discussions tab of this repo (for now!). 
+Please consider contributing to the project by building one of the four bounties pinned below. We are also taking new module proposals via the Discussions tab below. 
 
 👇🏼
 ### [Discussions](https://github.com/orgs/alpha-dragon-org/discussions)
