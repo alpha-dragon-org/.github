@@ -1,4 +1,4 @@
-## Build Dragon, Collect Bounties, Gain Influence
+## Build Dragon, Collect Bounties, Gain Influence in the Project
 
 Dragon is an open-sourced initiative for discovering alpha as defined by composable and knowledge specific token data analyses. We are packaging these token analyses as **data modules** to be incorporated into the extension and are community-developed.
 
