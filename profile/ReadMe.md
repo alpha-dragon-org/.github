@@ -14,7 +14,7 @@ Please consider joining the project by contributing to one of the bounties below
 ---
 
 
-[Read the project overview](https://alpha-dragon.ai/alphadragon.pdf) |
+[Read the whitepaper](https://alpha-dragon.ai/alphadragon.pdf) |
 [Download the prototype](https://chromewebstore.google.com/detail/dragon/ncbgllgbplhnbekllhogabdefjidbkoe) |
 
 [Website](https://alpha-dragon.ai) |
