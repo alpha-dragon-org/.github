@@ -4,7 +4,7 @@ Dragon is an open-sourced initiative for discovering alpha as defined by composa
 
 The initial release is divided into four prototype modules analyzing aspects of MEV activity and holder distributions of a token. The specific analyses are **Bundles, Snipers, Clusters, and Fundamental Security**. Future modules can analyze other types of MEV, other aspects of a holder distribution, or explore any other token analysis a developer can imagine, sourcing data from on- or off-chain.
 
-Please consider contributing to the project by building one of the four bounties pinned below. We are taking initial proposals for modules via the Discussion tab of this GitHub 👇🏼
+Please consider contributing to the project by building one of the four bounties pinned below. We are taking initial proposals for modules via the Discussions tab of this GitHub 👇🏼
 
 ### [Discussion!](https://github.com/orgs/alpha-dragon-org/discussions)
 
