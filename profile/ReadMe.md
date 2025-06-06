@@ -6,9 +6,9 @@
 
 🤓 Please read about the project in its entirety [here](https://alpha-dragon.ai/alphadragon.pdf).
 
-This prototype is divided into four modules that analyze aspects of the MEV activity and holder distributions of a token. Please consider contributing to one of the four bounties pinned below. 
+The prototype is divided into four modules that analyze aspects of MEV activity and holder distributions in a token. Please contribute to one of the four bounties pinned below to get started. 
 
-New module proposals can be made in the Discussions tab [here](https://github.com/orgs/alpha-dragon-org/discussions). 
+Other module ideas can be proposed in the Discussions tab [here](https://github.com/orgs/alpha-dragon-org/discussions). 
 
 ![Screenshot 2025-04-23 at 2 24 34 PM](https://github.com/user-attachments/assets/964752fe-c22d-4d18-aa41-b837014b3314)
 
