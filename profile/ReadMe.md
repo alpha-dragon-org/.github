@@ -1,4 +1,4 @@
-## Build Modules, Earn Bounties, Develop Dragon
+## Build Modules, Earn $Alpha, Develop Dragon
 
 🧿 **Dragon's vision**: for everyday traders to discover alpha as composable data sourced by open intelligence.
 
