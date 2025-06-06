@@ -4,7 +4,7 @@
 
 🧩 **Data modules**: community-developed token analyses that can be toggled into a user's browser extension.
 
-🤓 Please read about the project in its entirety [here](https://alpha-dragon.ai/alphadragon.pdf).
+Please read about the project in its entirety [here](https://alpha-dragon.ai/alphadragon.pdf).
 
 The prototype is divided into four modules that analyze aspects of MEV activity and holder distributions in a token. Please contribute to one of the four bounties pinned below to get started. 
 
