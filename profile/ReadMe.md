@@ -10,7 +10,7 @@ The prototype is divided into four modules that analyze aspects of MEV activity 
 
 Have a fresh idea? Propose your own module in the Discussions tab [here](https://github.com/orgs/alpha-dragon-org/discussions/categories/module-ideas).
 
-Learn how to contribute and earn $Alpha here. [here](https://alpha-dragon.ai/contribute.pdf)
+Learn how to contribute and earn $Alpha [here](https://alpha-dragon.ai/contribute.pdf).
 
 ![Screenshot 2025-04-23 at 2 24 34 PM](https://github.com/user-attachments/assets/964752fe-c22d-4d18-aa41-b837014b3314)
 
